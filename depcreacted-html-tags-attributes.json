@@ -1,72 +1,72 @@
 {
     "deprecated-html-tags": [
         {
-            "Tag": "<acronym>",
-            "Description": "Not supported in HTML5. Use <abbr> instead. Defines an acronym"
+            "html-element": "<acronym>",
+            "description": "Not supported in HTML5. Use <abbr> instead. Defines an acronym"
         },
         {
-            "Tag": "<applet>",
-            "Description": "Not supported in HTML5. Use <embed> or <object> instead. Defines an embedded applet"
+            "html-element": "<applet>",
+            "description": "Not supported in HTML5. Use <embed> or <object> instead. Defines an embedded applet"
         },
         {
-            "Tag": "<basefont>",
-            "Description": "Not supported in HTML5. Use CSS instead. Specifies a default color, size, and font for all text in a document"
+            "html-element": "<basefont>",
+            "description": "Not supported in HTML5. Use CSS instead. Specifies a default color, size, and font for all text in a document"
         },
         {
-            "Tag": "<big>",
-            "Description": "Not supported in HTML5. Use CSS instead. Defines big text"
+            "html-element": "<big>",
+            "description": "Not supported in HTML5. Use CSS instead. Defines big text"
         },
         {
-            "Tag": "<center>",
-            "Description": "Not supported in HTML5. Use CSS instead. Defines centered text"
+            "html-element": "<center>",
+            "description": "Not supported in HTML5. Use CSS instead. Defines centered text"
         },
         {
-            "Tag": "<dir>",
-            "Description": "Not supported in HTML5. Use <ul> instead. Defines a directory list"
+            "html-element": "<dir>",
+            "description": "Not supported in HTML5. Use <ul> instead. Defines a directory list"
         },
         {
-            "Tag": "<font>",
-            "Description": "Not supported in HTML5. Use CSS instead. Defines font, color, and size for text"
+            "html-element": "<font>",
+            "description": "Not supported in HTML5. Use CSS instead. Defines font, color, and size for text"
         },
         {
-            "Tag": "<frame>",
-            "Description": "Not supported in HTML5. Defines a window (a frame) in a frameset"
+            "html-element": "<frame>",
+            "description": "Not supported in HTML5. Defines a window (a frame) in a frameset"
         },
         {
-            "Tag": "<frameset>",
-            "Description": "Not supported in HTML5. Defines a set of frames"
+            "html-element": "<frameset>",
+            "description": "Not supported in HTML5. Defines a set of frames"
         },
         {
-            "Tag": "<noframes>",
-            "Description": "Not supported in HTML5. Defines an alternate content for users that do not support frames"
+            "html-element": "<noframes>",
+            "description": "Not supported in HTML5. Defines an alternate content for users that do not support frames"
         },
         {
-            "Tag": "<strike>",
-            "Description": "Not supported in HTML5. Use <del> or <s> instead. Defines strikethrough text"
+            "html-element": "<strike>",
+            "description": "Not supported in HTML5. Use <del> or <s> instead. Defines strikethrough text"
         },
         {
-            "Tag": "<tt>",
-            "Description": "Not supported in HTML5. Use CSS instead. Defines teletype text"
+            "html-element": "<tt>",
+            "description": "Not supported in HTML5. Use CSS instead. Defines teletype text"
         },
         {
-            "Tag": "<tt>",
-            "Description": "Not supported in HTML5. Use CSS instead. Defines teletype text"
+            "html-element": "<tt>",
+            "description": "Not supported in HTML5. Use CSS instead. Defines teletype text"
         },
         {
-            "Tag": "align",
-            "Description": "Not supported in HTML 5. Specifies the alignment according to surrounding elements. Use CSS instead"
+            "html-element": "align",
+            "description": "Not supported in HTML 5. Specifies the alignment according to surrounding elements. Use CSS instead"
         },
         {
-            "Tag": "bgcolor",
-            "Description": "Not supported in HTML 5. Specifies the background color of an element. Use CSS instead"
+            "html-element": "bgcolor",
+            "description": "Not supported in HTML 5. Specifies the background color of an element. Use CSS instead"
         },
         {
-            "Tag": "border",
-            "Description": "Not supported in HTML 5. Specifies the width of the border of an element. Use CSS instead"
+            "html-element": "border",
+            "description": "Not supported in HTML 5. Specifies the width of the border of an element. Use CSS instead"
         },
         {
-            "Tag": "color",
-            "Description": "Not supported in HTML 5. Specifies the text color of an element. Use CSS instead"
+            "html-element": "color",
+            "description": "Not supported in HTML 5. Specifies the text color of an element. Use CSS instead"
         }
     ]
 }
